@@ -1,0 +1,4 @@
+name	salary	age
+asd	984	12
+dfg	32154	45
+mnj	123	42
